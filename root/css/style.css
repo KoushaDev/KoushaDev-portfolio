@@ -4,7 +4,7 @@
 
 
 /**
- * copyright 2022 @codewithsadee
+ * copyright 2022, @KoushaDev
  */
 
 
@@ -305,14 +305,6 @@
     margin-bottom: 75px;
     min-width: 259px;
   }
-  .back-video{
-    position: fixed;
-    height:120%;
-    width: 300%;
-    z-index: -1;
-}
-  
-  
   
   /*-----------------------------------*\
     #SIDEBAR
